@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    text-align: center;
+    color:  gold;
+
+    
+}
+h1{
+    font-size: 25px;
+    background-color: gold;
+    color: black;
+    
+}
+p{
+    font-size: 20px;
+}
+table,th,td{
+    border: 1px solid gold;
+    width: 50% ;
+    margin: auto;
+}
